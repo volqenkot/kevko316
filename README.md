@@ -22,7 +22,7 @@ Focus: **results > excuses**.
 
 ## 📌 Projects
 - **KevkoStudio** — services & tools  
-  → (add repo / website link)
+  → (https://kevko.studio)
 
 ---
 
