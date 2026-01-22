@@ -27,9 +27,7 @@ Focus: **results > excuses**.
 ---
 
 ## 📫 Contact
-- Discord: `yourname`
-- Mail: `youremail@...`
-
+- Discord: `volqe`
 ---
 
 > “Discipline beats talent.”
